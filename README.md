@@ -17,14 +17,18 @@ The comparsion results of LIEAs are in the Compare_LIEA.zip, whose source code c
 
 ### Some tips
 Q1: Why use the highlight suppressing feature set? Not every night-time scenes contains highlights.
+
+
 A1: Our purpose is to benchmark the quality of night-time photos of smartphones. So, from the very begining, we 
 choose scenes that can be used to test three capabilities of camearas, as explained in Section 3.1.
 
 Q2: Why set the quality score of six anchors to 100, 80, 60, 40, 20, 0. It seems so subjective.
+
+
 A2: Setting 100 to 99, 80 to 81 is totally fine. First, MOS is obtained from the average opinion, it has no definitive answer.
 Second, MOS has to be curve-fitted in the PLCC calculation. Changing the quality score of six anchors has no effect in either 
 SROCC, KROCC, PLCC. Last but not least, nearly all IQA models only care about the prediction accuracy in the statistical meaning, not 
 individual difference. Thus, setting 100 to 99, or 80 to 81 has no influence in the statistics. As for the individual difference of camera 
-quality, it depends on your own experiences and subjective preference.
+quality, it depends on your own experiences, understanding and subjective preference.
 
 If you find this work useful, please cite our paper. If having any questions, please contact zongxihan@sjtu.edu.cn
