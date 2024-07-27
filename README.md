@@ -16,7 +16,7 @@ The comparative results with 17 STOAs are in the Compare_17STOA.zip, where their
 The comparsion results of LIEAs are in the Compare_LIEA.zip, whose source code can be found in LIEA_source_code.zip.
 
 ### Additional points not explained in the paper
-Q1: Why use the highlight suppressing feature set? Not every night-time scenes contains highlights.
+Q1: Why use the highlight suppressing feature set? Not every night-time scene contains highlights.
 
 
 A1: Our purpose is to benchmark the quality of night-time photos of smartphones. So, from the very begining, we 
