@@ -25,7 +25,7 @@ choose scenes that can be used to test three capabilities of camearas, as explai
 Q2: Why set the quality score of six anchors to 100, 80, 60, 40, 20, 0. It seems so subjective.
 
 
-A2: Setting 100 to 99, 80 to 81 is totally fine. First, MOS is obtained from the average opinion, it has no definitive answer.
+A2: Setting 100 to 99, 80 to 81 is totally fine. First, MOS is obtained from the average opinion, it has no standard answer.
 Second, MOS has to be curve-fitted in the PLCC calculation. Changing the quality score of six anchors has no effect in either 
 SROCC, KROCC, PLCC. Last but not least, nearly all IQA models only care about the prediction accuracy in the statistical meaning, not 
 individual difference. Thus, setting 100 to 99, or 80 to 81 has no influence in the statistics. As for the individual difference of camera 
