@@ -30,4 +30,4 @@ Second, MOS has to be curve-fitted in the PLCC calculation. Changing the quality
 SROCC, KROCC, or PLCC. Last but not least, nearly all IQA models only care about the prediction accuracy in the statistical meaning, not 
 individual difference. Thus, setting 100 to 99, or even 95 has no influence in the statistical viewpoint. As for the individual difference of camera quality, it depends on your own experiences, understanding and subjective preference. Actually, we think this is one of the dark side of objective IQA.
 
-If you find this work useful, please cite our paper. If having any questions, please contact zongxihan@sjtu.edu.cn
+If you find our work interesting, please cite our paper. If having any questions, please contact zongxihan@sjtu.edu.cn
