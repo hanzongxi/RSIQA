@@ -22,7 +22,7 @@ Q1: Why use the highlight suppressing feature set? Not every night-time scene co
 A1: Our purpose is to benchmark the quality of night-time photos of smartphones. So, from the very begining, we 
 choose scenes that can be used to test three capabilities of cameras, as explained in Section 3.1.
 
-Q2: Why set the quality score of six anchors to 100, 80, 60, 40, 20, 0. It seems so subjective.
+Q2: Why set the quality score of six anchors to 100, 80, 60, 40, 20, 0. It seems so abosulte and subjective.
 
 
 A2: Setting 100 to 99, 80 to 81 is totally fine. First, MOS is obtained from the average opinion, it has no standard answer.
