@@ -28,6 +28,6 @@ Q2: Why set the quality score of six anchors to 100, 80, 60, 40, 20, 0. It seems
 A2: Setting 100 to 99, 80 to 81 is totally fine. First, MOS is obtained from the people's opinion, it has no standard answer.
 Second, MOS has to be curve-fitted in the PLCC calculation. Changing the quality score of six anchors has no effect in either 
 SROCC, KROCC, or PLCC. Last but not least, nearly all IQA models only care about the prediction accuracy in the statistical meaning, not 
-individual difference. Thus, setting 100 to 99, or even 95 has no influence in the statistical viewpoint. As for the individual difference of camera quality, it depends on your own experiences, understanding and subjective preference. This is one of the dark side of IQA.
+individual difference. Thus, setting 100 to 99, or even 95 has no influence in the statistical viewpoint. As for the individual difference of camera quality, it depends on your own experiences, understanding and subjective preference. Actually, we think this is one of the dark side of IQA.
 
 If you find this work useful, please cite our paper. If having any questions, please contact zongxihan@sjtu.edu.cn
