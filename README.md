@@ -1,5 +1,5 @@
 # Blind Quality Assessment of Night-Time Photos: A Region Selective Approach
-[Han Zongxi](https://github.com/hanzongxi/), Xie Rong
+[Han zongxi](https://github.com/hanzongxi/), Xie rong
 
 ### Download the database
 
