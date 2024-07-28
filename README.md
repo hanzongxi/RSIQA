@@ -21,7 +21,7 @@ Q1: Why use the highlight suppressing feature set? Not every night-time scene co
 
 A1: Our purpose is to benchmark the quality of night-time photos of smartphones. So, from the very begining, we 
 choose scenes that can be used to test three capabilities of cameras, as explained in Section 3.1. Moreover, the NNID
-database contains many scenes without highlights, our RSIQA also achives good result.
+database contains many scenes without highlights, our RSIQA also achives good result on NNID.
 
 Q2: Why set the quality score of six anchors to 100, 80, 60, 40, 20, 0. It seems so absolute and subjective.
 
