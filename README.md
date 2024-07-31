@@ -36,7 +36,7 @@ Q3: What is the rank orders of night-time photos of smartphones?
 A3: Interested readers could recognize the specific models of taken photos through their Exif data, and average their ranking orders in each scene.
 Generally speaking, more expensive phones have better camera quality. In the author's opinion, around 2020, the quality of Pixel3 > Find X2Pro > S20+.
 But the technology keeps going, for example, the samsung night-time photos improves a lot from S20+ to S23Ultra. And the iPhones have night-mode since iPhone 11.
-In the authors preference, Pixel3, S23Ultra, iPhone 13 all have very good cameras. Pixel3 is known for its sharpness, naturalness, S23Ultras improves a lot in its denoising, and
+In the authors preference, Pixel3, S23Ultra, iPhone 13 all have top cameras in night-mode. Pixel3 is known for its sharpness, naturalness, S23Ultras improves a lot in its denoising, and
 its details are smoothely rendered (despite croostalks). iPhone is known for its stability, A, if not S in night-mode, bokeh, macro; S in video, color, user experience, and stability under extreme conditions (shooting directly at sun, or shooting textured phone glass back at medium indoor lighting). 
 
 
