@@ -13,7 +13,7 @@ The cross-validation process of our region selective IQA (RSIQA) can be run by c
 ### Experimental results 
 
 The comparative results with 17 STOAs are in the Compare_17STOA.zip, where their predicted mos on NPHD and test code are provided. The test code of compuatational time and performance with and without region selectivee strategy are in Compare_time_perf.zip. The computaional time and performance comparsion of RSIQA with BNIQM on NNID are in Compare_on_nnid.zip.
-The visual comparsion of various LIEAs are in the Compare_LIEA.zip. Deciphered source codes of NPE, LIME, SRLLIE, SRIE, PIE are in LIEA_source_code.zip, which are not easily found elsewhere.
+The visual comparsion of various LIEAs are in the Compare_LIEA.zip. Source codes of NPE, LIME, SRLLIE, SRIE, PIE are in LIEA_source_code.zip.
 
 ### Additional points we don‘t explain in the paper
 Q1: Why use the highlight suppressing feature set? Not every night-time scene contains highlights.
@@ -34,10 +34,7 @@ individual difference. Thus, setting 100 to 99, or even 95 has no influence in t
 Q3: What is the rank orders of night-time photos of smartphones?
 
 A3: Interested readers could recognize the specific models of taken photos through their Exif data, and average their ranking orders in each scene.
-Generally speaking, more expensive phones have better camera quality (^0^). In the author's opinion, around 2020, the quality of Pixel3 > Find X2Pro > S20+.
-But the technology keeps going, for example, the samsung night-time photos improves a lot from S20+ to S23Ultra. And the iPhones have night-mode since iPhone 11.
-In the authors preference, Pixel3, S23Ultra, iPhone 13 all have top cameras in night-mode. Pixel3 is known for its sharpness, naturalness, S23Ultra improves a lot in its denoising, and
-its details are smoothely rendered (despite crosstalks). iPhone may be argued for its too darkness in dim areas, overexposure, and ghosting, but is known for its stability, still A, if not S in night-mode, bokeh, macro; S in video, color, user experience, and stability under harsh conditions (HDR when shooting directly at sun, or detail keeping when shooting textured phone glass back under medium indoor lighting). 
+ 
 
 
 If you find our work interesting, please cite our paper. If having any questions, please contact zongxihan@sjtu.edu.cn
