@@ -13,7 +13,7 @@ The cross-validation process of our region selective IQA (RSIQA) can be run by c
 ### Experimental results 
 
 The comparative results with 17 STOAs are in the Compare_17STOA.zip, where their predicted mos on NPHD and test code are provided. The test code of compuatational time and performance with and without region selectivee strategy are in Compare_time_perf.zip. The computaional time and performance comparsion of RSIQA with BNIQM on NNID are in Compare_on_nnid.zip.
-The visual comparsion of various LIEAs are in the Compare_LIEA.zip. Source codes of NPE, LIME, SRLLIE, SRIE, PIE are in LIEA_source_code.zip.
+The visual comparsion of various LIEAs are in the Compare_LIEA.zip. Source codes of NPE, LIME, FEM, SRLLIE, SRIE, PIE are in LIEA_source_code.zip.
 
 ### Additional points we don‘t explain in the paper
 Q1: Why use the highlight suppressing feature set? Not every night-time scene contains highlights.
