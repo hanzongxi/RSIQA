@@ -29,11 +29,11 @@ Q2: Why set the quality score of six anchors to 100, 80, 60, 40, 20, 0. It seems
 A2: Setting 100 to 99, 80 to 81 is totally fine. First, MOS is obtained from the people's opinion, it has no standard answer.
 Second, MOS has to be curve-fitted in the PLCC calculation. Changing the quality score of six anchors has no effect in either 
 SROCC, KROCC, or PLCC. Last but not least, nearly all IQA models only care about the prediction accuracy in the statistical meaning, not 
-individual difference. Thus, setting 100 to 99, or even 95 has no influence in the statistical viewpoint, if the overall trend is correct. As for the individual difference of camera quality, it depends on your own experiences, understanding and subjective preference. Actually, we think this is one of the dark side of objective IQA. Maybe your should believe your eyes, feelings more than the statistically-correct IQA, when choosing from two cameras of close quality.
+individual difference. Thus, setting 100 to 99, or even 95 has no influence in the statistical viewpoint, if the overall trend is correct. As for the individual difference of camera quality, it depends on your own experiences, understanding and subjective preference. Actually, we think this is one of the dark side of objective IQA. Maybe your should believe your eyes, feelings，rather than the statistically-correct IQA, when choosing from two cameras of close quality. From the author's own opinion, it is better to do the imaging quality ranking problem (or similar problems such as school ranking problem) in a macro, statistical, and historical viewpoint (large scale including all tiers, relatively long time span over 5 years, and in a statistical way).
 
-Q3: What is the rank orders of night-time photos of smartphones?
+Q3: What are rank orders of night-time photos of smartphones?
 
-A3: Interested readers could recognize the specific models of taken photos through their Exif data, and average their ranking orders in each scene.
+A3: Interested readers could recognize the specific model of taken photos through their Exif data, and average their ranking orders in each scene.
  
 
 
